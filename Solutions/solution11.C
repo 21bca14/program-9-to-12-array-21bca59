@@ -19,4 +19,5 @@ void main()
 		}
 	}
 	printf("\n number of vowels in the string: %d",c);
-	printf("\n");
+	//printf("\n");
+        
